@@ -1,5 +1,3 @@
-# pawmart-ecommerce
-
 
 # PawMart – E-commerce Web Application 🐾
 
