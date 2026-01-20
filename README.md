@@ -1,4 +1,3 @@
-
 # PawMart – E-commerce Web Application 🐾
 
 ## Overview
@@ -22,6 +21,7 @@ The project focuses on backend logic, database integration, and user interaction
 
 ## How to Run
 1. Clone the repository  
-2. Install dependencies:
-   ```bash
-   npm install
+2. Run `npm install`  
+3. Import the MySQL database  
+4. Run `node app.js`  
+5. Visit `http://localhost:3000`
