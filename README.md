@@ -1,7 +1,7 @@
 # PawMart – E-commerce Web Application 🐾
 
 ## Overview
-PawMart is a full-stack e-commerce web application designed for selling dog-related products.
+PawMart is a full stack ecommerce web application designed for selling dog related products.
 The project focuses on backend logic, database integration, and user interaction flows.
 
 ## Features
@@ -9,7 +9,7 @@ The project focuses on backend logic, database integration, and user interaction
 - Product listing from a MySQL database
 - Shopping cart functionality
 - Checkout flow
-- Server-side rendering using EJS
+- Server side rendering using EJS
 
 ## Technologies Used
 - Node.js
