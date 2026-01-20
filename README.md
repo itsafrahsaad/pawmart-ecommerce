@@ -22,6 +22,7 @@ The project focuses on backend logic, database integration, and user interaction
 ## How to Run
 1. Clone the repository  
 2. Run `npm install`  
-3. Import the MySQL database  
-4. Run `node app.js`  
-5. Visit `http://localhost:3000`
+3. Import the provided MySQL database  
+4. Update database credentials in the config file  
+5. Run `node app.js`  
+6. Open `http://localhost:3000` in your browser  
